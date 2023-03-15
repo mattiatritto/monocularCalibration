@@ -2,6 +2,8 @@
 
 This camera calibration was done by using OpenCV. This is just a simple test done by using random chessboard images found on Internet.
 
+The output displayed on the terminal is saved in result.txt.
+
 
 ## Bibliography
 
