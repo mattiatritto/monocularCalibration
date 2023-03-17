@@ -30,6 +30,9 @@ absolute_translational_error.max 6.239657 m
 max idx: 2618
 
 
+The plot of the trajectory is saved in MH01_mono.pdf
+
+
 ## Bibliography
 
 - OpenCV documentation, https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html
